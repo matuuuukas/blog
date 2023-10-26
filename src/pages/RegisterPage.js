@@ -19,9 +19,7 @@ async function register(ev){
     } else {
         alert('Registration failed');
     }
-    
     console.log(response);
-
 }
 
     return(
